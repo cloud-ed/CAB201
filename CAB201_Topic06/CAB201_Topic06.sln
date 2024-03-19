@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W6Q1_2DShapes", "W6Q1_2DShapes\W6Q1_2DShapes.csproj", "{196C6161-FBCD-4318-86E5-01417A6E8B5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W6Q2_Superheroes", "W6Q2_Superheroes\W6Q2_Superheroes.csproj", "{75DB7E7B-E41C-4B5C-833C-DB8976EE000F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{196C6161-FBCD-4318-86E5-01417A6E8B5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{196C6161-FBCD-4318-86E5-01417A6E8B5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{196C6161-FBCD-4318-86E5-01417A6E8B5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{196C6161-FBCD-4318-86E5-01417A6E8B5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75DB7E7B-E41C-4B5C-833C-DB8976EE000F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75DB7E7B-E41C-4B5C-833C-DB8976EE000F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75DB7E7B-E41C-4B5C-833C-DB8976EE000F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75DB7E7B-E41C-4B5C-833C-DB8976EE000F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1747BC3-01FF-49B0-893C-13CA05C92164}
+	EndGlobalSection
+EndGlobal
